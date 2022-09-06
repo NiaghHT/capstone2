@@ -139,9 +139,11 @@ footer {
                 .card-body {
                     margin-top: 30px;
                     h1 {
+                        height: 57.6px;
                         @include text($text-2-3-xl, $text-light, $bg-c-dark);
                     }
                     p {
+                        height: 90px;
                         @include text($text-2xl, $text-light, $bg-c4-light);
                     }
                     .card-footer_click {
